@@ -1,0 +1,26 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Downloaded model weights and checkpoints
+models/
+**/checkpoint-*/
+*.pt
+*.pth
+*.safetensors
+
+# Large datasets and generated data
+data/raw/
+data/processed/
+2411759_code_dataset/
+2411759_code_dataset.zip
+
+# Editor and notebook files
+.DS_Store
+.ipynb_checkpoints/

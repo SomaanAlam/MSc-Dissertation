@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "54d907c84b1fd0d33c000008",
+    "text": "Mepolizumab, a humanized monoclonal antibody that binds to and inactivates interleukin-5, has been shown to reduce asthma exacerbations in patients with severe eosinophilic asthma.",
+    "question": "Which molecule is targeted by a monoclonal antibody Mepolizumab?"
+  },
+  {
+    "id": "532498959b2d7acc7e000017",
+    "text": "Short oligonucleotide N3'-->P5' thio-phosphoramidate conjugated to 5'-palmitoyl group, designated as GRN163L (Imetelstat), was recently introduced as a potent human telomerase inhibitor",
+    "question": "Which enzyme is targeted by the drug Imetelstat?"
+  },
+  {
+    "id": "56c1f009ef6e39474100003c",
+    "text": "Eliglustat compared with imiglucerase in patients with Gaucher's disease type 1 stabilised on enzyme replacement therapy: a phase 3, randomised, open-label, non-inferiority trial.",
+    "question": "Which disease is treated with Eliglustat?"
+  },
+  {
+    "id": "58add7699ef3c34033000009",
+    "text": "A more important role of Trf4/TRAMP, however, is to enhance Nrd1 association with snoRNA genes.",
+    "question": "Which proteins does the yeast Cleavage and Polyadenylation Complex contain?"
+  },
+  {
+    "id": "5e30fa32fbd6abf43b000048",
+    "text": "Rat bite fever due to Streptobacillus moniliformis induces typical but not pathognomonic clinical signs, such as local purulent wound infection followed by maculopapular exanthema, myalgia as well as purulent joint infections.",
+    "question": "Which bacteria causes rat bite fever?"
+  },
+  {
+    "id": "5ad303970340b9f05800001a",
+    "text": "Growth differentiation factor 15 (GDF-15) is expressed and secreted in response to inflammation, oxidative stress, hypoxia, telomere erosion, and oncogene activation.",
+    "question": "In what states are GDF15 expression increased?"
+  },
+  {
+    "id": "551fd9c06b348bb82c000012",
+    "text": "Validation of the use of the ROSIER scale in prehospital assessment of stroke.",
+    "question": "ROSIER scale is used for which disorder?"
+  },
+  {
+    "id": "5544de7a5beec11c10000005",
+    "text": "Adaptive (stationary phase) mutagenesis is a phenomenon by which nondividing cells acquire beneficial mutations as a response to stress.",
+    "question": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?"
+  },
+  {
+    "id": "5324d0169b2d7acc7e000022",
+    "text": "Topical minoxidil 2%-5% 1 mL twice daily or finasteride 1 mg daily are recommended as first line treatments, followed by the use of Food and Drug Administration-cleared HairMax LaserComb\u00ae in patients who do not respond to first line modalities.",
+    "question": "List FDA approved treatments for androgenetic allopecia"
+  },
+  {
+    "id": "588fd8f3621ea6ff7e000001",
+    "text": "Here we present the DeepBlue Epigenomic Data Server, which streamlines epigenomic data analysis as well as software development. DeepBlue provides a comprehensive programmatic interface for finding, selecting, filtering, summarizing and downloading region sets. It contains data from four major epigenome projects, namely ENCODE, ROADMAP, BLUEPRINT and DEEP.",
+    "question": "Data from which major epigenome projects are contained in the DeepBlue epigenomic data server?"
+  },
+  {
+    "id": "5312280ce3eabad02100000a",
+    "text": "Complex chromosome rearrangement of 6p25.3->p23 and 12q24.32->qter in a child with moyamoya.",
+    "question": "Abnormalities in which chromosomes were linked to the Moyamoya disease?"
+  },
+  {
+    "id": "65cfce461930410b1300001a",
+    "text": "BACKGROUND: Retatrutide (LY3437943) is an agonist of the glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors.",
+    "question": "What receptors are targeted by Retatrutide?"
+  },
+  {
+    "id": "56c1f000ef6e394741000037",
+    "text": "PURPOSE: Trifluridine (TFT) is an antitumor component of a novel nucleoside antitumor agent, TAS-102, which consists of TFT and tipiracil hydrochloride (thymidine phosphorylase inhibitor).",
+    "question": "Which drugs are included in TAS-102?"
+  },
+  {
+    "id": "5c5f10791a4c55d80b000014",
+    "text": "PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate.",
+    "question": "What is the function of PAPOLA/PAP?"
+  },
+  {
+    "id": "6278dfe956bf9aee6f000016",
+    "text": "A strong association between the risk of cognitive disability and the involvement of groups of DMD isoforms was found. In particular, improvements in the correlation of FSIQ with mutation location were identified when a new classification system for mutations affecting the Dp140 isoform was implemented.",
+    "question": "Which disease phenotype has the worst prognosis in Duchenne Muscular Dystrophy?"
+  },
+  {
+    "id": "5e4ada686d0a277941000014",
+    "text": "HipMCL: a high-performance parallel implementation of the Markov clustering algorithm for large-scale networks.",
+    "question": "Which method is behind HipMCL?"
+  },
+  {
+    "id": "56c08702ef6e394741000024",
+    "text": "Afamelanotide for Erythropoietic Protoporphyria.",
+    "question": "Which diseases can be treated with Afamelanotide?"
+  },
+  {
+    "id": "601bfa531cb411341a000008",
+    "text": "Heterozygous lamin B1 and lamin B2 variants cause primary microcephaly and define a novel laminopathy.",
+    "question": "What is caused by heterozygous lamin B1 and lamin B2 variants?"
+  },
+  {
+    "id": "622dfb133a8413c6530000a8",
+    "text": "Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain.",
+    "question": "What is the drug  gantenerumab targeting?"
+  },
+  {
+    "id": "640ddd9d201352f04a000028",
+    "text": "2 different programmed cell death protein 1 (PD-1) inhibitors, Nivolumab and Pembrolizumab.",
+    "question": "What were the first 2 PD-1 inhibitors approved by the FDA in 2014?"
+  },
+  {
+    "id": "660bbc09fdcbea915f00002a",
+    "text": "endometriosis, with and without chronic pain, anxiety, and depression",
+    "question": "What symptoms can be expected in women suffering from endometriosis?"
+  },
+  {
+    "id": "52f88d292059c6d71c000036",
+    "text": "in a population of 95 WS patients, half of them followed for more than 5 years. Our study confirms the increased incidence of both elevated TSH serum values (37.9% in our sample)",
+    "question": "Which hormone abnormalities are common in Williams syndrome"
+  },
+  {
+    "id": "5a7727f39e632bc06600000d",
+    "text": "Side effects were growth failure and weight gain, facial fullness, blood pressure, bone health, cataracts, gastrointestinal symptoms, behavior, hypertrichosis, and need for medication interventions.",
+    "question": "What are the side effects of deflazacort in DMD patients?"
+  },
+  {
+    "id": "61f7d745882a024a10000038",
+    "text": "BACKGROUND: A live-attenuated Plasmodium falciparum sporozoite (SPZ) vaccine (PfSPZ Vaccine) has shown up to 100% protection against controlled human malaria infection (CHMI) using homologous parasites (same P. falciparum strain as in the vaccine).",
+    "question": "Which disease can be prevented with PfSPZ Vaccine?"
+  },
+  {
+    "id": "5896271178275d0c4a000004",
+    "text": "Lucinactant for the prevention of respiratory distress syndrome in premature infants.",
+    "question": "Which disease is treated with lucinactant?"
+  },
+  {
+    "id": "58b548d722d3005309000005",
+    "text": "Corynebacterium ulcerans is a zoonotic pathogen that can produce diphtheria toxin and causes an illness categorized as diphtheria in the European Union because its clinical appearance is similar to that of diphtheria caused by Corynebacterium diphtheriae.",
+    "question": "Which bacteria cause diphtheria?"
+  },
+  {
+    "id": "5e92015b2d3121100d000004",
+    "text": "Soluble interleukin-2 receptor-\u03b1, CXC chemokine ligand 13, soluble CD30, and soluble tumor necrosis factor receptor-2 were individually positively associated, and B-cell activating factor of the tumor necrosis factor family inversely associated, with all non-Hodgkin lymphoma and one or more subtypes.",
+    "question": "List blood marker for Non-Hodgkin lymphoma."
+  },
+  {
+    "id": "5710e131a5ed216440000001",
+    "text": "Chromosome XII context is important for rDNA function in yeast",
+    "question": "In which yeast chromosome does the rDNA cluster reside?"
+  },
+  {
+    "id": "51716a438ed59a060a00000a",
+    "text": "In this paper we have explored the benefits of combining predictions from already existing gene prediction programs. We have introduced three novel methods for combining predictions from programs Genscan and HMMgene",
+    "question": "Name five popular  computer  programs used to identify genes in genomic sequences"
+  },
+  {
+    "id": "64403be357b1c7a31500004e",
+    "text": "Recent results from the PEACHTREE trial (ClinicalTrials.gov Identifier: NCT02595398), a phase III trial with two suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks, showed the significant improvement in visual acuity and reduction in central subfield thickness, all without increasing the risk of elevated intraocular pressure or accelerated cataract progression.",
+    "question": "What was the duration of the follow-up period of patients in the PEACHTREE clinical trial?"
+  },
+  {
+    "id": "5e776845835f4e477700000a",
+    "text": "A non-randomised, open-label, Phase I safety and immunogenicity dose-finding study to assess the safety and immunogenicity of the candidate TB vaccine Modified Vaccinia virus Ankara expressing Antigen 85A (MVA85A) from Mycobacterium tuberculosis (MTB) in healthy adult volunteers previously vaccinated with BCG.",
+    "question": "What does MVA85A stand for?"
+  },
+  {
+    "id": "5a7617b183b0d9ea66000022",
+    "text": "The hepatocyte growth factor receptor (MET) was targeted in untreated patients in a phase III trial with MoAb rilotumumab, with or without CT, but the study was stopped because of mortality excess in the rilotumumab arm.",
+    "question": "What is inhibited by a drug rilotumumab?"
+  },
+  {
+    "id": "63f03fc8f36125a426000021",
+    "text": "Structural and Mechanistic Bases of Viral Resistance to HIV-1 Capsid Inhibitor Lenacapavir.",
+    "question": "What disease can be treated with Lenacapavir?"
+  },
+  {
+    "id": "63f57d9b33942b094c000004",
+    "text": "Blue diaper syndrome (BDS) (Online Mendelian Inheritance in Man number 211000) is an extremely rare disorder that was first described in 1964. The characteristic finding is a bluish discoloration of urine spots in the diapers of affected infants. Additional clinical features of the first described patients included diarrhea, inadequate weight gain, hypercalcemia, and nephrocalcinosis. An intestinal defect of tryptophan absorption was postulated as the underlying pathology.",
+    "question": "Which amino acid in implicated in the Blue diaper syndrome?"
+  },
+  {
+    "id": "5c58282e07647bbc4b00001e",
+    "text": "mmquant: how to count multi-mapping reads?",
+    "question": "Name the algorithms for counting multi-mapping reads"
+  },
+  {
+    "id": "5abbe429fcf456587200001c",
+    "text": "The direct factor Xa inhibitor apixaban (Eliquis(\u00ae)) has predictable pharmacodynamics and pharmacokinetics and does not require routine anticoagulation monitoring.",
+    "question": "What is the drug target for Eliquis (Apixaban)?"
+  },
+  {
+    "id": "56c1f00cef6e39474100003e",
+    "text": "Effects of the dual peroxisome proliferator-activated receptor-\u03b1/\u03b3 agonist aleglitazar on renal function in patients with stage 3 chronic kidney disease and type 2 diabetes: a Phase IIb, randomized study.",
+    "question": "Aleglitazar is agonist of which receptor?"
+  },
+  {
+    "id": "51404dd723fec90375000002",
+    "text": "In the absence of DNA substrate, the DNA methyltransferase (MTase) M.BspRI can methylate itself using the methyl donor S-adenosyl-L-methionine (AdoMet). The methyl group is transferred to two Cys residues of the MTase.",
+    "question": "What is the methyl donor of DNA (cytosine-5)-methyltransferases?"
+  },
+  {
+    "id": "5ad4eddf133db5eb78000009",
+    "text": "PPIM: A Protein-Protein Interaction Database for Maize.",
+    "question": "List the main PPI databases."
+  },
+  {
+    "id": "5e30e80bfbd6abf43b00003b",
+    "text": "Asciminib (ABL001) is an orally administered allosteric inhibitor of the BCR-ABL tyrosine kinase.",
+    "question": "Which molecule is targeted by Asciminib?"
+  },
+  {
+    "id": "5505c9008e1671127b000002",
+    "text": "mTOR is the major component of two protein complexes: mTOR complex 1 (mTORC1) and mTORC2",
+    "question": "List the components of mTOR Complex 2 (mTORC2)."
+  },
+  {
+    "id": "603534671cb411341a000153",
+    "text": "msDNA is actually a complex of DNA, RNA, and probably protein. It is composed of a small, single-stranded DNA, linked to a small, single-stranded RNA molecule. The 5' end of the DNA molecule is joined to an internal guanosine residue of the RNA molecule by a unique 2'-5' phosphodiester bond. msDNA is produced in many hundreds of copies per cell, but its function remains unknown.",
+    "question": "What is the msDNA?"
+  },
+  {
+    "id": "6440f85c57b1c7a315000051",
+    "text": "The tools used to control pain in infants in the article included PIPP,NFCS,NIPS AND NPASS.",
+    "question": "What are the most common pain scales used to measure pain in neonates?"
+  },
+  {
+    "id": "5aacd487fcf4565872000007",
+    "text": "DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes.",
+    "question": "Which human gene encode for DNA polymerase \u03b8?"
+  },
+  {
+    "id": "55414c65472cfd8617000001",
+    "text": "Question answering is a specialized type of information retrieval with the aim of returning precise short answers to queries posed as natural language questions. We present a review and comparison of three biomedical question answering systems: askHERMES (http://www.askhermes.org/), EAGLi (http://eagl.unige.ch/EAGLi/), and HONQA (http://services.hon.ch/cgi-bin/QA10/qa.pl)",
+    "question": "List available biomedical question answering systems."
+  },
+  {
+    "id": "60274ec61cb411341a0000e5",
+    "text": "All underwent surgical exploration with a laminectomy and partial resection followed by adjuvant radiotherapy to a dose of 46-50 Gy and chemotherapy with VAC (vincristine, adriamycin and cyclophosphamide) alternating with ICE (ifosphamide, cisplatin and etoposide) for at least six cycles.",
+    "question": "Which drugs are included in the VAC regiment for Ewing's sarcoma?"
+  },
+  {
+    "id": "66301c47187cba990d000025",
+    "text": "The analysis of adults living with DMD reveals several new health-related issues, such as the management of emergencies and safety of pharmacological treatments for psychiatric symptoms, chronic pain management, as well as an increasing caregivers burden.",
+    "question": "What are the most common issues that need to be addressed in adults with Duchenne Muscular Dystrophy?"
+  },
+  {
+    "id": "58dbb3f18acda34529000019",
+    "text": "Alirocumab and evolocumab have been approved by the FDA for the treatment of patients with heterozygous familial hypercholesterolemia and patients with clinical atherosclerotic cardiovascular disease) who do not achieve their LDL-C target on maximal tolerated statin treatment and dietary modification. In addition, evolocumab has been approved by the FDA for homozygous familial hypercholesterolemia.",
+    "question": "Which are the Proprotein Convertase Subtilisin Kexin 9 (PCSK9) inhibitors that are FDA approved?"
+  },
+  {
+    "id": "58c27b7102b8c60953000021",
+    "text": "Enhancer Sharing Promotes Neighborhoods of Transcriptional Regulation Across Eukaryotes",
+    "question": "Which effects create neighborhoods of transcriptional regulation in eukaryotes?"
+  },
+  {
+    "id": "5fdb84f2a43ad31278000030",
+    "text": "BXSB mice spontaneously develop a lupus-like syndrome that is accelerated by the Yaa gene (Y-linked autoimmune accelerator).",
+    "question": "Which diseases are associated with the Yaa gene?"
+  },
+  {
+    "id": "51be411b047fa84d1d000006",
+    "text": "LaTcOm: a web server for visualizing rare codon clusters in coding sequences",
+    "question": "Which are currently available software tools for detecting rare codon clusters in coding sequences?"
+  },
+  {
+    "id": "589a245a78275d0c4a000026",
+    "text": "OBJECTIVE: To describe baseline headache characteristics of children and adolescents participating in a multicenter, randomized, double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo for the prevention of migraine (CHAMP Study).",
+    "question": "List drug that were evaluated in the CHAMP trial for migraine."
+  },
+  {
+    "id": "65f777d7c4010b4d78000032",
+    "text": "A total of 579 patients (54.4%) had a shorter wait time (8 weeks or less) 485 patients (45.6%) had a longer wait time (greater than 8 weeks).",
+    "question": "What is the optimal timing of surgical resection after a neoadjuvant chemoradiotherapy for locally advanced rectal cancer patients?"
+  },
+  {
+    "id": "54ede28094afd61504000003",
+    "text": "Fanconi anemia (FA) is an autosomal disorder that causes genome instability. FA patients suffer developmental abnormalities, early-onset bone marrow failure, and a predisposition to cancer. The disease is manifested by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations.",
+    "question": "What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?"
+  },
+  {
+    "id": "56c4d14ab04e159d0e000003",
+    "text": "Compared with Sleeping Beauty, PiggyBac exhibits higher transposition efficiencies, no evidence for local hopping and a significant bias toward reintegration in intragenic regions, which demonstrate its utility for insertional mutagenesis.",
+    "question": "Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?"
+  },
+  {
+    "id": "56ae57350a360a5e4500000a",
+    "text": "The physiological target for LeuRS translational quality control is norvaline.",
+    "question": "Which is the physiological target for LeuRS translational quality control?"
+  },
+  {
+    "id": "63eeefc5f36125a426000009",
+    "text": "BACKGROUND: CIS43LS is a monoclonal antibody that was shown to protect against controlled Plasmodium falciparum infection in a phase 1 clinical trial.",
+    "question": "What is targeted by CIS43LS?"
+  },
+  {
+    "id": "5517f9286487737b43000002",
+    "text": "The single genomic locus, AbetaH-J-J, encodes three functionally distinct proteins aspartyl beta-hydroxylase, junctin and junctate by alternative splicing.",
+    "question": "Which are the different proteins/isoforms encoded but the ASPH (aspartate beta-hydroxylase) gene in humans?"
+  },
+  {
+    "id": "54d8d60d014675820d000007",
+    "text": "This randomized phase 3 study evaluated the combination of the BRAF inhibitor vemurafenib and the MEK inhibitor cobimetinib.",
+    "question": "List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients"
+  },
+  {
+    "id": "5e669e401af46fc13000001a",
+    "text": "Cushing's disease (CD) is a rare disabling condition caused by Adrenocorticotropic hormone (ACTH)-secreting adenomas of the pituitary",
+    "question": "Cushing's disease is associated with a tumor in what part of the body?"
+  },
+  {
+    "id": "52f4f1d62059c6d71c00001c",
+    "text": "Isolated ventricular non-compaction or non-compaction cardiomyopathy (NCCM) is characterized by an excessively thickened endocardial layer with deep intertrabecular recesses, reminiscent of the myocardium during early embryogenesis.",
+    "question": "Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?"
+  },
+  {
+    "id": "53617eeb7d100faa0900000a",
+    "text": "Elite Rhythmic Gymnasts (RGs) constitute a unique metabolic model and they are prone to developing Anorexia Athletica.",
+    "question": "What is the name for anorexia in gymnasts?"
+  },
+  {
+    "id": "660c0a85fdcbea915f000030",
+    "text": "respiratory distress, bronchopulmonary dysplasia, retinopathy of prematurity, periventricular leukomalacia, necrotizing enterocolitis, neonatal sepsis",
+    "question": "What are common complications of prematurity for babies?"
+  },
+  {
+    "id": "54d65b6b3706e8952800000c",
+    "text": "Most cases of CMT are caused by mutations in PMP22,",
+    "question": "List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A)."
+  },
+  {
+    "id": "5c9007460101eac870000012",
+    "text": "Cofilin-2 (Cfl2) was identified as one of the potential targets of miR-301a using prediction databases, which we validated by luciferase assay and mutation of predicted binding sites.",
+    "question": "Name three binding partners of cofilin 2."
+  },
+  {
+    "id": "5fe31322a43ad3127800004c",
+    "text": "The Malat1 long non-coding RNA is upregulated by signalling through the PERK axis of unfolded protein response during flavivirus infection.",
+    "question": "Which lncRNAs are induced by heatshock?"
+  },
+  {
+    "id": "58de18e48acda3452900002a",
+    "text": "Does the linear Sry transcript function as a ceRNA for miR-138?",
+    "question": "Which miRNA is targeted by SRY/Sox9?"
+  },
+  {
+    "id": "587e3129c32c812009000002",
+    "text": "traseR: an R package for performing trait-associated SNP enrichment analysis in genomic intervals",
+    "question": "Which R / bioconductor package is used for performing SNP enrichment analysis?"
+  },
+  {
+    "id": "5e5bab131af46fc130000001",
+    "text": "The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose.",
+    "question": "What is the protein product of the gene GBA2?"
+  },
+  {
+    "id": "5884fe4ce56acf5176000010",
+    "text": "BACKGROUND: We conducted multiple microarray datasets analyses from clinical and xenograft tumor tissues to search for disease progression-driving oncogenes in prostate cancer (PCa). Sperm-associated antigen 5 (SPAG5) attracted our attention. SPAG5 was recently identified as an oncogene participating in lung cancer and cervical cancer progression.",
+    "question": "SPAG5 was implicated in which cancers?"
+  },
+  {
+    "id": "602918381cb411341a00010c",
+    "text": "EPD in 2020: enhanced data visualization and extension to ncRNA promoters.",
+    "question": "Which tools have been developed for identifying and visualising ncRNA promoters?"
+  },
+  {
+    "id": "570a922dcf1c325851000028",
+    "text": "Major signaling pathways regulated by RIP1 include necroptosis, apoptosis, and pro-survival/inflammation NF-\u03baB activation.",
+    "question": "Which major signaling pathways are regulated by RIP1?"
+  },
+  {
+    "id": "601db4ac1cb411341a000048",
+    "text": "Mutations in lamin A (LMNA) are responsible for a variety of human dystrophic and metabolic diseases. Here, we created a mouse model in which progerin, the lamin A mutant protein that causes Hutchinson-Gilford progeria syndrome (HGPS), can be inducibly overexpressed.",
+    "question": "What is the protein that is truncated to produce progerin?"
+  },
+  {
+    "id": "56c865d25795f9a73e000016",
+    "text": "GKT136901, a specific inhibitor of Nox1- and Nox4-containing NADPH oxidase activity, attenuated ROS generation and atherosclerosis and decreased CD44 and HA expression in atherosclerotic lesions.",
+    "question": "Which compound is a specific inhibitor for Nox1 and Nox4?"
+  },
+  {
+    "id": "5e4601293f54159529000002",
+    "text": "Diagnostic performance of central vein sign for multiple sclerosis with a simplified three-lesion algorithm.",
+    "question": "Central Vein Sign is characteristic to which disease?"
+  },
+  {
+    "id": "56c33e5695c1e7cc5b000001",
+    "text": "This compartment localizes into three main regions: the peripheral heterochromatin, perinucleolar heterochromatin, and pericentromeric heterochromatin",
+    "question": "In which nuclear compartments is heterochromatin located?"
+  },
+  {
+    "id": "5708992ccf1c32585100000d",
+    "text": "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications",
+    "question": "What is the RESID database?"
+  },
+  {
+    "id": "602598201cb411341a0000af",
+    "text": "Biologic disease-modifying antirheumatic drugs (bDMARDs) used for rheumatoid arthritis (RA) treatment have several mechanisms of action.",
+    "question": "What does bDMARD stand for?"
+  },
+  {
+    "id": "60322b501cb411341a000137",
+    "text": "LGALS7, ASPN, HSP90AA1 and HSP90AB1.",
+    "question": "List the core lung matrisome proteins."
+  },
+  {
+    "id": "5720a8da0fd6f91b68000010",
+    "text": "Sleep-wake disturbances (SWD) are common after traumatic brain injury (TBI). In acute TBI, we recently found decreased CSF levels of hypocretin-1, a wake-promoting neurotransmitter",
+    "question": "Which could be some of the possible causes of hypersomnia?"
+  },
+  {
+    "id": "52fc8b772059c6d71c00006e",
+    "text": "Taken together, our results suggest that the therapeutic inhibition of Tpl2 by Honokiol thwarts both gastric tumor growth and peritoneal dissemination by inducing ER stress and inhibiting EMT.",
+    "question": "Which are the known inhibitors of the TPL2/MAP3K8 protein?"
+  },
+  {
+    "id": "56ffd08bcf1c325851000009",
+    "text": "the presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element",
+    "question": "From which sequence does the Alu repeat originate from?"
+  },
+  {
+    "id": "57136a7e1174fb1755000006",
+    "text": "The use of cffDNA in fetal sex determination during the first trimester of pregnancy of female DMD carriers.",
+    "question": "How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?"
+  },
+  {
+    "id": "5e2b00bc76af173751000004",
+    "text": "DeepSynergy: predicting anti-cancer drug synergy with Deep Learning.",
+    "question": "Which tool exist for predicting drug synergy with deep learning?"
+  },
+  {
+    "id": "6020b5681cb411341a000088",
+    "text": "CONCLUSIONS: Among patients with advanced NSCLC with a confirmed MET exon 14 skipping mutation, the use of tepotinib was associated with a partial response in approximately half the patients.",
+    "question": "Which mutation is targeted by Tepotinib?"
+  },
+  {
+    "id": "5157539ed24251bc0500008a",
+    "text": "he CRISPR-Cas (clustered regularly interspaced short palindromic repeats, CRISPR-associated genes) is an adaptive immunity system in bacteria and archaea that functions via a distinct self-non-self recognition mechanism that is partially analogous to the mechanism of eukaryotic RNA interference (RNAi).",
+    "question": "Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?"
+  },
+  {
+    "id": "5a6d08d5b750ff445500002c",
+    "text": "The Ctf4/AND-1 protein hub, which links DNA replication, repair, and chromosome segregation, represents a novel target for the synthetic lethality approach. Herein, we report the design, optimization, and validation of double-click stapled peptides encoding the Ctf4-interacting peptide (CIP) of the replicative helicase subunit Sld5. By screening stapling positions in the Sld5 CIP, we identified an unorthodox i,i+6 stapled peptide with improved, submicromolar binding to Ctf4. The mode of interaction with Ctf4 was confirmed by a crystal structure of the stapled Sld5 peptide bound to Ctf4. The stapled Sld5 peptide was able to displace the Ctf4 partner DNA polymerase\u2005\u03b1 from the replisome in yeast extracts. Our study provides proof-of-principle evidence for the development of small-molecule inhibitors of the human CTF4 orthologue AND-1.",
+    "question": "Which stapled peptide has been designed to target Ctf4?"
+  },
+  {
+    "id": "5a6a2dcab750ff4455000023",
+    "text": "We found the largest mammal-teleost conserved chromosomal segments to be spanned by highly conserved noncoding elements (HCNEs), their developmental regulatory target genes, and phylogenetically and functionally unrelated \"bystander\" genes. Bystander genes are not specifically under the control of the regulatory elements that drive the target genes and are expressed in patterns that are different from those of the target genes. Reporter insertions distal to zebrafish developmental regulatory genes pax6.1/2, rx3, id1, and fgf8 and miRNA genes mirn9-1 and mirn9-5 recapitulate the expression patterns of these genes even if located inside or beyond bystander genes, suggesting that the regulatory domain of a developmental regulatory gene can extend into and beyond adjacent transcriptional units. We termed these chromosomal segments genomic regulatory blocks (GRBs).",
+    "question": "Which are the constitutive parts of a Genomic Regulatory Block (GRB)?"
+  },
+  {
+    "id": "6440420857b1c7a315000050",
+    "text": "Cabotegravir Extended-Release Injectable Suspension: A Review in HIV-1 Pre-Exposure Prophylaxis.",
+    "question": "What is Apretude used for?"
+  },
+  {
+    "id": "602346eb1cb411341a000090",
+    "text": "A successful phase III trial for the combination of atezolizumab and bevacizumab (the IMbrave150 trial) in advanced hepatocellular carcinoma has recently been reported.",
+    "question": "A combination of which two drugs was tested in the IMbrave150 trial?"
+  },
+  {
+    "id": "58c6635f02b8c60953000023",
+    "text": "The investigation of the patient's whole family showed the typical recessive X-linked inheritance of this enzyme-defect.",
+    "question": "What is the inheritance of the glucose-6-phosphate dehydrogenase (G6PD) deficiency?"
+  },
+  {
+    "id": "532f55fed6d3ac6a34000036",
+    "text": "The glucocerebrosidase gene (GBA), located in a gene-rich region on chromosome 1q 21, is mutated in Gaucher disease",
+    "question": "What is the gene mutated in the Gaucher disease?"
+  },
+  {
+    "id": "553fac39c6a5098552000001",
+    "text": "Bacterial genomes displaying a strong bias between the leading and the lagging strand of DNA replication encode two DNA polymerases III, DnaE and PolC, rather than a single one.",
+    "question": "Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes?"
+  },
+  {
+    "id": "661c424588784bab31000001",
+    "text": "Small non-coding RNAs (miRNAs) regulate gene expression by binding to mRNA and mediating its degradation or inhibiting translation.",
+    "question": "By which method do micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation?"
+  },
+  {
+    "id": "56c04412ef6e39474100001b",
+    "text": "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma.",
+    "question": "Which molecule is targeted by Daratumumab?"
+  },
+  {
+    "id": "58a644e560087bc10a000027",
+    "text": "These results suggest that LOXL2 could be an appealing target for treatment of scar formation after glaucoma surgery, and point to the potential therapeutic benefits of simtuzumab, a humanized monoclonal antibody derived from GS-607601.",
+    "question": "What is the drug target for Simtuzumab?"
+  },
+  {
+    "id": "5e2f9e0dfbd6abf43b000034",
+    "text": "The definition of normal pressure hydrocephalus (NPH), in adults, associates clinical signs (Adams and Hakim triad) involving gait disorders, urinary incontinence and dementia, associated with aspects on brain imaging that are consistent with this hypothesis and also normal or slightly increased intracranial pressure.",
+    "question": "List symptoms of the Hakim Triad?"
+  },
+  {
+    "id": "6429e17657b1c7a315000007",
+    "text": "Furthermore, 218 p53-bound enhancers (Enhp53) were identified by analyzing p53 ChIP-seq in HepG2 cells after DNA damage. The results showed that the enhancer expression and histone markers of enhancers (H3K4me1, H3K4me2, H3K4me3, H3K9ac, and H3K27ac) revealed significantly higher level on Enhp53 than Enhno-p53 which suggested that p53 participated in regulating enhancer activity and chromatin structure.",
+    "question": "What histone marks are indicative of enhancers in the chromatin landscape of a given cell?"
+  },
+  {
+    "id": "66165f2afdcbea915f000051",
+    "text": "the detection of the first human case in the Democratic Republic of the Congo in 1970",
+    "question": "When was the first case of human monkey pox diagnosed?"
+  },
+  {
+    "id": "603bc2801cb411341a00015a",
+    "text": "comprising the vast majority of vertebrate species, remains unclear. To address this issue, we evaluated the involvement of an oxytocin homolog (isotocin, referred herein as oxt)",
+    "question": "Isotocin is an homolog of what hormone?"
+  },
+  {
+    "id": "532206819b2d7acc7e00000f",
+    "text": "To better study protein methylation, we have developed highly specific antibodies against monomethyl arginine; asymmetric dimethyl arginine; and monomethyl, dimethyl, and trimethyl lysine motifs. These antibodies were used to perform immunoaffinity purification of methyl peptides followed by LC-MS/MS analysis to identify and quantify arginine and lysine methylation sites in several model studies.",
+    "question": "Name a method for enrichment of arginine-methylated peptides."
+  },
+  {
+    "id": "602356b81cb411341a000099",
+    "text": "BACKGROUND: Tofersen is an antisense oligonucleotide that mediates the degradation of superoxide dismutase 1 (SOD1) messenger RNA to reduce SOD1 protein synthesis. Intrathecal administration of tofersen is being studied for the treatment of amyotrophic lateral sclerosis (ALS) due to SOD1 mutations.METHODS: We conducted a phase 1-2 ascending-dose trial evaluating tofersen in adults with ALS due to SOD1 mutations.",
+    "question": "Tofersen has been developed for treatment of which disease?"
+  },
+  {
+    "id": "5e48bf5ed14c9f295d000019",
+    "text": "Reevaluation of the Critically Ill Patients With Nonconvulsive Status Epilepticus by Using Salzburg Consensus Criteria.",
+    "question": "Salzburg EEG criteria are used to diagnose which disorder?"
+  },
+  {
+    "id": "5c9791d2ecadf2e73f000026",
+    "text": "Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella species in Hong Kong.",
+    "question": "Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?"
+  },
+  {
+    "id": "644f057357b1c7a315000087",
+    "text": "Microphthalmia-associated transcription factor (MITF) is the master regulator of the melanocyte lineage.",
+    "question": "Which transcription factors are essential for the melanocyte lineage?"
+  },
+  {
+    "id": "661d51fdeac11fad3300001d",
+    "text": "The differential diagnosis of EDS includes hypermobility spectrum disorders, Marfan syndrome, Loey-Dietz syndrome, Cutis laxa syndromes, autosomal dominant polycystic kidney disease, osteogenesis Imperfecta Type 1, fibromyalgia, depression, and chronic fatigue syndrome.",
+    "question": "What diseases are included in the differential diagnosis of Ehlers-Danlos Syndrome?"
+  },
+  {
+    "id": "65d375b31930410b1300004b",
+    "text": "BACKGROUND: The purpose of this study was to review the current literature and information on the combination product Juvisync\u2122 (sitagliptin + simvastatin), which was approved by the US Food and Drug Administration in October 2011.",
+    "question": "What medication are included in the Juvisync pill?"
+  },
+  {
+    "id": "550312b4e9bde6963400001c",
+    "text": "Diamond-Blackfan anemia (DBA) is an inherited red blood cell aplasia that usually presents during the first year of life. The main features of the disease are normochromic and macrocytic anemia, reticulocytopenia, and nearly absent erythroid progenitors in the bone marrow. The patients also present with growth retardation and craniofacial, upper limb, heart and urinary system congenital malformations in ~30-50 % of cases. The disease has been associated with point mutations and large deletions in ten ribosomal protein (RP) genes RPS19, RPS24, RPS17, RPL35A, RPL5, RPL11, RPS7, RPS10, RPS26, and RPL26 and GATA1 in about 60-65 % of patients",
+    "question": "Which genes are known to be involved in Diamond-Blackfan anemia?"
+  },
+  {
+    "id": "5ace17c30340b9f058000009",
+    "text": "A previously reported association between the olfactory receptor OR7D4 and the androstenone was not detected until we specifically typed this gene (P = 1.1 \u00d7 10(-4)).",
+    "question": "Which olfactory gene senses androsterone?"
+  },
+  {
+    "id": "62532ffee764a53204000023",
+    "text": "Ladybird homeobox (Lbx) transcription factors have crucial functions in muscle and nervous system development in many animals.",
+    "question": "Ladybird homeobox (Lbx) transcription factors regulate the development of what body systems/organs?"
+  },
+  {
+    "id": "60274aca1cb411341a0000e3",
+    "text": "Our patient presented with the classic pentad of TTP symptoms: anemia, thrombocytopenia, fever, elevated creatinine, and altered mental status.",
+    "question": "List features of the Thrombotic Thrombocytopenic Purpura pentad."
+  },
+  {
+    "id": "5c6aef167c78d69471000023",
+    "text": "Arioc: GPU-accelerated alignment of short bisulfite-treated reads.",
+    "question": "Which tool has been developed for GPU-accelerated alignment of bisulfite-treated DNA sequences?"
+  },
+  {
+    "id": "56ecfd572ac5ed1459000002",
+    "text": "Further, new orally administered second-generation PI oprozomib is being investigated.",
+    "question": "How is oprozomib administered?"
+  },
+  {
+    "id": "6217d8973a8413c653000020",
+    "text": "Activation-induced cytidine deaminase (AID) catalyses the deamination of deoxycytidines to deoxyuracils within immunoglobulin genes to induce somatic hypermutation and class-switch recombination",
+    "question": "What is the role of cytidine deaminase in healthy cells?"
+  },
+  {
+    "id": "5309f8f5970c65fa6b000001",
+    "text": "ROS-generating oxidases Nox1 and Nox4 contribute to oncogenic Ras-induced premature senescence",
+    "question": "Which oncogenes are able to induce cellular senescence?"
+  },
+  {
+    "id": "627a875a56bf9aee6f000023",
+    "text": "Aneurysmal subarachnoid hemorrhage (SAH) is associated with a mortality of more than 30%.",
+    "question": "What causes the \"worst headache\" of a patient's life?"
+  },
+  {
+    "id": "5713b0a51174fb175500000e",
+    "text": "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5), Arts syndrome, and non-syndromic sensorineural deafness (DFN2) are allelic syndromes, caused by reduced activity of phosphoribosylpyrophosphate synthetase 1 (PRS-I) due to loss-of-function mutations in PRPS1",
+    "question": "Which disease phenotypes are associated to PRPS1 mutations?"
+  },
+  {
+    "id": "625ebc98e764a53204000030",
+    "text": "Contemporary intravenous iron formulations allow administration of high doses of elemental iron and enable correction of total iron deficit in one or two infusions. An important but underappreciated complication of certain formulations is hypophosphatemia caused by increased secretion of the phosphaturic hormone, fibroblast growth factor 23 (FGF23).",
+    "question": "Please list the drugs associated with Drug-Induced Hypophosphatemia."
+  },
+  {
+    "id": "5d35ee08b3a6380763000012",
+    "text": "PRC2 induces histone H3 lysine 27 (H3K27) trimethylation (H3K27me3), which is subsequently read by PRC1 that further catalyzes H2A monoubiquitination (H2Aub1), creating a transcriptional silent chromatin conformation.",
+    "question": "Which epigenetic marks are deposited by PRC1?"
+  },
+  {
+    "id": "601ff55a1cb411341a000077",
+    "text": "Metabolic syndrome is the concurrent presentation of multiple cardiovascular risk factors, including obesity, insulin resistance, hyperglycemia, dyslipidemia and hypertension",
+    "question": "What are the five traits associated with metabolic syndrome?"
+  },
+  {
+    "id": "63f03ae6f36125a42600001d",
+    "text": "Phase I studies of BI 1015550, a preferential phosphodiesterase 4B inhibitor, in healthy males and patients with idiopathic pulmonary fibrosis.",
+    "question": "What is the target of BI 1015550?"
+  },
+  {
+    "id": "5505b9ff8e1671127b000001",
+    "text": "Western blotting was used to detect hepatic microtubule-associated protein 1 light chain 3 (LC3)-II protein expression as a marker for autophagy",
+    "question": "List markers for autophagy."
+  },
+  {
+    "id": "5e47592835b8f0833c000001",
+    "text": "The NoSAS score: A new and simple screening tool for obstructive sleep apnea syndrome in depressive disorder.",
+    "question": "The NoSAS Score can be used for screening of which disorders?"
+  },
+  {
+    "id": "6277e52256bf9aee6f000009",
+    "text": "The mean incubation period ranged from 5.6 (95% CI: 5.2 to 6.0) to 6.7 days (95% CI: 6.0 to 7.4) according to the statistical model. The 95th percentile was 12.5 days when the mean age of patients was 60 years, increasing 1 day for every 10 years.",
+    "question": "What is the incubation period for COVID-19?"
+  },
+  {
+    "id": "6206cfd5c9dfcb9c09000040",
+    "text": "The first chromone in clinical use, khellin, was extracted from the seeds of the plant Ammi visnaga, and had been used for centuries as a diuretic and as a smooth muscle relaxant.",
+    "question": "Which one was the first chromone in clinical use?"
+  },
+  {
+    "id": "5d387573a1e159510500000a",
+    "text": "Gene-gene interaction of ATG5, ATG7, BLK and BANK1 in systemic lupus erythematosus.",
+    "question": "Which is the primary interacting protein of BLK?"
+  },
+  {
+    "id": "62507520e764a5320400000c",
+    "text": "Complexins (CPLXs), initially identified in neuronal presynaptic terminals, are cytoplasmic proteins that interact with the soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNARE) complex to regulate the fusion of vesicles to the plasma membrane.",
+    "question": "Where are the complexins expressed?"
+  },
+  {
+    "id": "5e2b2c85fbd6abf43b000007",
+    "text": "Koos Classification of Vestibular Schwannomas: A Reliability Study.",
+    "question": "Which disease can be classified using the Koos Classification?"
+  },
+  {
+    "id": "5c0e82b2133db5eb7800002d",
+    "text": "Cultures enriched with not-diploid cells acquired a senescence-associated secretory phenotype (SASP) characterized by IL1B, CXCL8, CCL2, TNF, CCL27 and other pro-inflammatory factors including a novel SASP component CLEC11A.",
+    "question": "What forms part of the senescence associated secretory phenotype, or SASP?"
+  },
+  {
+    "id": "5506c3e38e1671127b00000a",
+    "text": "The plasma membrane Na(+)/Ca(2+) exchanger (NCX) is a bidirectional ion transporter that couples the translocation of Na(+) in one direction with that of Ca(2+) in the opposite direction. This system contributes to the regulation of intracellular Ca(2+) concentration via the forward mode (Ca(2+) efflux) or the reverse mode (Ca(2+) influx).",
+    "question": "The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?"
+  },
+  {
+    "id": "54fc9b236ad7dcbc12000005",
+    "text": "Adenosine A2A antagonists, such as istradefylline, improve motor function in PD, but their effect on cognitive impairment has not been determined.",
+    "question": "List adenosine A2A receptor antagonists that are used for Parkinson's disease treatment."
+  },
+  {
+    "id": "5a39453d966455904c000006",
+    "text": "We introduce the subSeq R package, which uses a novel efficient approach to perform this subsampling and to calculate informative metrics at each depth",
+    "question": "Which method for subsampling of NGS reads requires only gene counts?"
+  },
+  {
+    "id": "56c1f007ef6e39474100003b",
+    "text": "Alternating electric fields (tumor-treating fields therapy) can improve chemotherapy treatment efficacy in non-small cell lung cancer both in vitro and in vivo.",
+    "question": "Tumor-treating fields are effective for treatment of which cancers?"
+  },
+  {
+    "id": "58eb99f3eda5a57672000009",
+    "text": "Do centromeres ensure their early replication by promoting early activation of nearby origins, or have they migrated over evolutionary time to reside in early replicating regions?",
+    "question": "Do origins of replication close to yeast centromeres fire early or late?"
+  },
+  {
+    "id": "55032efde9bde69634000035",
+    "text": "In vivo quantification of calcitonin gene-related peptide receptor occupancy by telcagepant in rhesus monkey and human brain using the positron emission tomography tracer [11C]MK-4232.",
+    "question": "Which receptor is targeted by telcagepant?"
+  },
+  {
+    "id": "6200411cc9dfcb9c09000014",
+    "text": "JUCHMME: a Java Utility for Class Hidden Markov Models and Extensions for biological sequence analysis.",
+    "question": "Which java utility has been developed for class hidden markov models?"
+  },
+  {
+    "id": "662a4b08b9f8b89d7e00000b",
+    "text": "Oxysterols derive from either enzymatic or non-enzymatic oxidation of cholesterol.",
+    "question": "Oxysterol is produced by the oxidation of what waxy, fat-like substance made in the liver?"
+  },
+  {
+    "id": "56f96333cf1c325851000004",
+    "text": "The method involves the generation of thiols by controlled reduction of cystine disulfide bonds in keratin",
+    "question": "What kind of bonds are connecting keratin molecules?"
+  },
+  {
+    "id": "601bd7d41cb411341a000004",
+    "text": "In this study, we first showed that as compared with SCUBE1 or SCUBE3, SCUBE2 is the most potent modulator of IHH signaling in vitro. In addition, gain and loss-of-function studies demonstrated that SCUBE2 exerted an osteogenic function by enhancing Ihh-stimulated osteoblast differentiation in the mouse mesenchymal progenitor cells. Consistent with these in vitro studies and the prominent roles of Ihh in coordinating skeletogenesis, genetic ablation of Scube2 (-/-) caused defective endochondral bone formation and impaired Ihh-mediated chondrocyte differentiation and proliferation as well as osteoblast differentiation of -/- bone-marrow mesenchymal stromal-cell cultures. Our data demonstrate that Scube2 plays a key regulatory role in Ihh-dependent endochondral bone formation.",
+    "question": "What is caused by SCUBE2 loss-of-function?"
+  },
+  {
+    "id": "5713bc991174fb1755000010",
+    "text": "GJB1 is currently considered to be associated with X-linked DI-CMT, and MPZ, INF2, DNM2, YARS, GNB4, NEFL, and MFN2 are associated with autosomal DI-CMT. Moreover, GDAP1, KARS, and PLEKHG5 are associated with RI-CMT. Identification of these genes is not only important for patients and families but also provides new information about pathogenesis",
+    "question": "Which genes are associated with autosomal dominant Charcot-Marie-Tooth?"
+  },
+  {
+    "id": "606b2bf594d57fd87900005d",
+    "text": "Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors.",
+    "question": "What is the mode of action of Thiazovivin?"
+  },
+  {
+    "id": "606b5ba794d57fd879000067",
+    "text": "Cytochrome P450 (CYP) CYP2B6 G516T (rs3745274) is a well-known predictor of efavirenz disposition.",
+    "question": "Which CYP gene polymorphism is a well-known predictor of efavirenz disposition?"
+  },
+  {
+    "id": "5a72329e2dc08e987e000006",
+    "text": "To evaluate the usefulness of the PPFA sign, we compared the PPFA sign with the falciform ligament sign and the ligamentum teres sign, both of which are well-known CT signs of pneumoperitoneum.",
+    "question": "Falciform ligament sign is characteristic to which disease?"
+  },
+  {
+    "id": "5e4027f948dab47f2600000d",
+    "text": "The prevention of paediatric bacterial meningitis and septicaemia has recently entered a new era with the availability of two vaccines against capsular group B meningococcus",
+    "question": "List diseases that are caused by the Meningococcus B?"
+  },
+  {
+    "id": "5c6473b2e842deac6700001b",
+    "text": "Gemtuzumab ozogamicin is a CD33-targeted antibody-drug conjugate joined to calicheamicin.",
+    "question": "Where does gemtuzumab ozogamicin bind?"
+  },
+  {
+    "id": "66097092fdcbea915f000010",
+    "text": "amyloid-beta (A\u03b2) in neurodegenerative diseases beyond Alzheimer's disease (AD). We analyzed A\u03b2 deposition in the temporal cortex and striatum in 116 autopsies, including Lewy body disease (LBD; N\u2009=\u200951), multiple system atrophy (MSA; N\u2009=\u200910), frontotemporal lobar degeneration-TDP-43 (FTLD-TDP; N\u2009=\u200916), and progressive supranuclear palsy",
+    "question": "Amyloid-\u03b2 is associated with what diseases?"
+  },
+  {
+    "id": "61f56284882a024a10000005",
+    "text": "Pathogenic Variants in the Genes Affected in Alport Syndrome (COL4A3-COL4A5) and Their Association With Other Kidney Conditions: A Review",
+    "question": "Which syndrome is caused by pathogenic COL4A3-COL4A5 variants?"
+  },
+  {
+    "id": "56c8605b5795f9a73e000014",
+    "text": "Reversal of Alopecia Areata Following Treatment With the JAK1/2 Inhibitor Baricitinib.",
+    "question": "Which kinases does baricitinib inhibit?"
+  },
+  {
+    "id": "5a76155c83b0d9ea6600001e",
+    "text": "Patient-reported outcomes from a randomised phase III study of baricitinib in patients with rheumatoid arthritis and an inadequate response to biological agents (RA-BEACON)",
+    "question": "Which phase III clinical trials for rheumatoid arthritis involve baricitinib? (November 2017)"
+  },
+  {
+    "id": "531b3ff3b166e2b80600003d",
+    "text": "Here, we propose a novel mechanism through which the nicotinamide adenine dinucleotide-dependent histone deacetylase SIRT1 regulates EMT in prostate cancer cells through cooperation with the EMT inducing transcription factor ZEB1",
+    "question": "Which proteins are related to the loss of cell-cell adhesion during EMT (epithelial-mesenchymal transition)?"
+  },
+  {
+    "id": "63f57ea133942b094c000005",
+    "text": "Cat-eye syndrome is a rare genetic disease that involves the proximal long (q) arm of chromosome 22. The classic clinical triad includes coloboma of the iris, ears, and anal malformations.",
+    "question": "What is the triad of the Cat eye syndrome?"
+  },
+  {
+    "id": "5a70dbe599e2c3af26000004",
+    "text": "JPS is most frequently caused by mutations in the SMAD4 or BMPR1A genes. Herein, we report a child with juvenile polyposis syndrome (JPS) with a novel mutation in the SMAD4 gene.",
+    "question": "Which two genes are implicated in Juvenile polyposis syndrome?"
+  },
+  {
+    "id": "52e92c6e98d0239505000024",
+    "text": "Mutations in rfx6 were recently associated with Mitchell-Riley syndrome, which involves neonatal diabetes, and other digestive system defects.",
+    "question": "Which gene is associated with the Mitchell-Riley syndrome?"
+  },
+  {
+    "id": "607323fe94d57fd879000079",
+    "text": "apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3C (APOBEC3C)",
+    "question": "Which protein is encoded by the protein APOBEC3C?"
+  },
+  {
+    "id": "644f0ca257b1c7a315000089",
+    "text": "The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors. The hallmarks constitute an organizing principle for rationalizing the complexities of neoplastic disease. They include sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, inducing angiogenesis, and activating invasion and metastasis. Underlying these hallmarks are genome instability, which generates the genetic diversity that expedites their acquisition, and inflammation, which fosters multiple hallmark functions. Conceptual progress in the last decade has added two emerging hallmarks of potential generality to this list-reprogramming of energy metabolism and evading immune destruction.",
+    "question": "What are the hallmarks of cancer?"
+  },
+  {
+    "id": "56c8f4615795f9a73e00001a",
+    "text": "GBshape: a genome browser database for DNA shape annotations.",
+    "question": "Which genome browser database for DNA shape annotations is available?"
+  },
+  {
+    "id": "601c317a1cb411341a000014",
+    "text": "Upadacitinib is a Janus kinase 1 inhibitor currently being evaluated in phase III rheumatoid arthritis trials.",
+    "question": "Which molecule is targeted by Upadacitinib?"
+  },
+  {
+    "id": "5314a7a4dae131f847000003",
+    "text": "The Ca(2+) binding properties of the FHC-associated cardiac troponin C (cTnC) mutation L29Q were examined in isolated cTnC, troponin complexes, reconstituted thin filament preparations, and skinned cardiomyocytes.",
+    "question": "which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?"
+  },
+  {
+    "id": "5a735b383b9d13c708000002",
+    "text": "Patisiran is an investigational RNA interference (RNAi) therapeutic in development for the treatment of hereditary ATTR (hATTR) amyloidosis, a progressive disease associated with significant disability, morbidity, and mortality.",
+    "question": "What is the name of the RNAi investigational drug being developed against hereditary amyloidosis?"
+  },
+  {
+    "id": "63eef3ebf36125a42600000a",
+    "text": "Trial of Anti-BDCA2 Antibody Litifilimab for Cutaneous Lupus Erythematosus.",
+    "question": "What is the target of Litifilimab?"
+  },
+  {
+    "id": "5e31cbd4fbd6abf43b00004f",
+    "text": "Huntington's Disease (HD) is an autosomal dominant neurodegenerative disease characterized by gradual deterioration of motor and cognitive functions and development of psychiatric deficits. Animal models provide powerful means to study the pathological",
+    "question": "Is Huntington's disease caused by a dominate or recessive gene?"
+  },
+  {
+    "id": "5e7659db835f4e4777000001",
+    "text": "Two rotavirus vaccines, RotaTeq and Rotarix, are licensed for global use; however, the protection they confer to unvaccinated individuals through indirect effects remains unknown.",
+    "question": "Name two rotavirus vaccines."
+  },
+  {
+    "id": "5c0119f3133db5eb7800002b",
+    "text": "In this study, 200 Streptococcus pneumoniae (plus 30 levofloxacin-resistant isolates), 200 Haemophilus influenzae, and 100 Moraxella catarrhalis isolates selected primarily from the United States (2014) were tested against delafloxacin and comparator agents. Delafloxacin was the most potent agent tested.",
+    "question": "List bacterial families for which delafloxacin has been shown to be effective."
+  },
+  {
+    "id": "52f350042059c6d71c000010",
+    "text": "The incidence of Edwards syndrome is 1:5000 of live-born",
+    "question": "What is the incidence of Edwards syndrom in the european population?"
+  },
+  {
+    "id": "601d6ec61cb411341a000032",
+    "text": "Focal segmental glomerulosclerosis and mild intellectual disability in a patient with a novel de novo truncating TRIM8 mutation.",
+    "question": "Which conditions are manifested by TRIM8 mutations?"
+  },
+  {
+    "id": "56ae40110a360a5e45000009",
+    "text": "In this study we developed DEEP, a novel ensemble prediction framework. DEEP integrates three components with diverse characteristics that streamline the analysis of enhancer's properties in a great variety of cellular conditions. In our method we train many individual classification models that we combine to classify DNA regions as enhancers or non-enhancers. DEEP uses features derived from histone modification marks or attributes coming from sequence characteristics. Experimental results indicate that DEEP performs better than four state-of-the-art methods on the ENCODE data. We report the first computational enhancer prediction results on FANTOM5 data where DEEP achieves 90.2% accuracy and 90% geometric mean (GM) of specificity and sensitivity across 36 different tissues. We further present results derived using in vivo-derived enhancer data from VISTA database. DEEP-VISTA, when tested on an independent test set, achieved GM of 80.1% and accuracy of 89.64%.",
+    "question": "Which computational frameworks are available for predicting enhancers?"
+  },
+  {
+    "id": "621218fc3a8413c653000014",
+    "text": "Here we describe a fully human bsAb (REGN5458) that binds to B-cell maturation antigen (BCMA) and CD3, and compare its antitumor activities vs those of anti-BCMA CAR T cells to identify differences in efficacy and mechanism of action.",
+    "question": "Where does REGN5458 bind to?"
+  },
+  {
+    "id": "550e9d2cb305b40c5c000001",
+    "text": "Furthermore, MR-proADM levels significantly improved reclassification of patients in the prediction of outcome by the Stroke Prognostication using Age and NIHSS-100 (SPAN-100; NRI\u200a=\u200a0.175; p\u200a=\u200a0.04).",
+    "question": "Which variables are included in the SPAN-100 score?"
+  },
+  {
+    "id": "56bdcc4cef6e394741000002",
+    "text": "In many genomic studies, one works with genome-position-dependent data, e.g. ChIP-chip or ChIP-Seq scores. Using conventional tools, it can be difficult to get a good feel for the data, especially the distribution of features. This article argues that the so-called Hilbert curve visualization can complement genome browsers and help to get further insights into the structure of one's data. This is demonstrated with examples from different use cases. An open-source application, called HilbertVis, is presented that allows the user to produce and interactively explore such plots.AVAILABILITY: http://www.ebi.ac.uk/huber-srv/hilbert/.",
+    "question": "Which R/bioconductor package utilizes the Hilbert curve in order to visualize genomic data?"
+  },
+  {
+    "id": "56c703445795f9a73e00000a",
+    "text": "Monomethylation of histone H3 on Lys 4 (H3K4me1) and acetylation of histone H3 on Lys 27 (H3K27ac) are histone modifications that are highly enriched over the body of actively transcribed genes and on enhancer",
+    "question": "Which histone modification discriminates between active and poised enhancers?"
+  },
+  {
+    "id": "5c960f21ecadf2e73f000020",
+    "text": "There are only six DMARDs (disease modifying anti-rheumatic drugs) available in the clinical practice, such as gold sodium thiomalate, D-penicillamine, bucillamine, auranofin, salazosulphapyridine, and lobenzarit disodium.",
+    "question": "What are DMARDs?"
+  },
+  {
+    "id": "64414bdb57b1c7a315000058",
+    "text": "Prednisone and deflazacort in Duchenne muscular dystrophy:",
+    "question": "What types of glucosteroids are used for the management of Duchenne muscular dystrophy?"
+  },
+  {
+    "id": "5e822615835f4e4777000034",
+    "text": "Erythropoietic protoporphyria (EPP) is a rare inherited disorder of the heme biosynthesis pathway resulting in the accumulation of protoporphyrins in the blood, erythrocytes, and other tissues. Because of a gene mutation in the FECH gene, ferrochelatase, the enzyme involved in the final step of heme synthesis, is deficient in these patients.",
+    "question": "Which protein is mutated in Erythropoietic Protoporphyria?"
+  },
+  {
+    "id": "5e7f63f5835f4e477700001d",
+    "text": "CMB305 also includes a boost from a NY-ESO-1 protein vaccine given along with a potent toll-like-4 receptor agonist, glycopyranosyl lipid A.",
+    "question": "What does CMB305 contain?"
+  },
+  {
+    "id": "6251a2ffe764a5320400001c",
+    "text": "SLC26A5 transporter prestin is fundamental for the higher hearing sensitivity and frequency selectivity of mammals. Prestin is a voltage-dependent transporter found in the cochlear outer hair cells responsible for their electromotility.",
+    "question": "What is the function of the protein SLC26A5?"
+  },
+  {
+    "id": "5c71d7ca7c78d6947100006b",
+    "text": "Monoclonal antibodies (mAbs) targeting calcitonin gene-related peptide (CGRP) signaling are being explored as prophylactic treatments for migraine. Erenumab (AMG 334) is the first potent, selective, and competitive human mAb antagonist of the CGRP receptor.",
+    "question": "Erenumab, used to treat migraine headaches, binds to what protein?"
+  },
+  {
+    "id": "54e22b62ae9738404b000011",
+    "text": "It is currently estimated that approximately 50% of patients with a clinical diagnosis of classic Ehlers-Danlos syndrome harbor mutations in the COL5A1 and the COL5A2 gene, encoding the \u03b11 and the \u03b12-chain of type V collagen, respectively",
+    "question": "Which genes are associated with Ehlers-Danlos syndrome type I/II?"
+  },
+  {
+    "id": "5505db6a8e1671127b000003",
+    "text": "Keratins form the intermediate filaments of the cytoskeleton and provide scaffold structures within cells.",
+    "question": "What are the structures formed when keratin molecules come together?"
+  },
+  {
+    "id": "6442933f57b1c7a315000060",
+    "text": "There are two types of the disease: FSHD1 (MIM:158900) and FSHD2 (MIM: 158901), which have different genetic causes but are phenotypically indistinguishable. In FSHD1, partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+    "question": "What is the cause of Facioscapulohumeral Muscular Dystrophy type 1 (FSHD1)?"
+  },
+  {
+    "id": "641368ee201352f04a00003c",
+    "text": "Adult-type diffuse gliomas are genetically defined and include astrocytoma, isocitrate dehydrogenase (IDH)-mutant, oligodendroglioma, IDH-mutant and 1p/19q codeleted, and glioblastoma, IDH-wildtype",
+    "question": "What are the  types/categories of adult diffuse gliomas."
+  },
+  {
+    "id": "550b0408c2af5d5b7000000c",
+    "text": "Aptamers are short, single-stranded (ss) oligonucleotidesable to recognize target molecules with high affinity.",
+    "question": "Magnetic beads has been used in numerous applications. List some coatings used."
+  },
+  {
+    "id": "65cfdf1c1930410b13000028",
+    "text": "CONCLUSIONS: Gain-of-function variants in STAT4 caused DPM in the families that we studied.",
+    "question": "Mutation of which gene was implicated in Disabling pansclerotic morphea?"
+  },
+  {
+    "id": "52e0c9a298d0239505000010",
+    "text": "We show here that the maternally inherited Snurf-Snrpn 3-Mb region, which is silenced by a potent transcription repressive mechanism, is uniformly enriched in histone methylation marks usually found in constitutive heterochromatin, such as H4K20me3, H3K9me3, and H3K79me3",
+    "question": "Which histone modifications are associated with constitutive heterochromatin?"
+  },
+  {
+    "id": "5c890e6d75a4a5d21900000f",
+    "text": "Sideritis scardica Griseb. (ironwort, mountain tea), an endemic plant of the Balkan Peninsula, has been used in traditional medicine in the treatment of gastrointestinal complaints, inflammation, and rheumatic disorders.",
+    "question": "What is another name for the plant Sideritis scardica?"
+  },
+  {
+    "id": "6048ff3e1cb411341a000160",
+    "text": "Degranulation of mast cells (MCs) releases several mediators such as vascular endothelial growth factor (VEGF), chymase, tryptase, histamine, and cytokines,",
+    "question": "Which cell secretes the enzyme tryptase?"
+  },
+  {
+    "id": "6451029f57b1c7a315000094",
+    "text": "Leigh syndrome (LS), or subacute necrotizing encephalomyelopathy, is the most common childhood mitochondrial encephalopathy, accounting for more than 50% of cases in this age group. Its estimated incidence is 1:40,000 - 1:77,000 liveborn infants a year.",
+    "question": "What is the incidence of Leigh syndrome?"
+  },
+  {
+    "id": "62005e02c9dfcb9c09000018",
+    "text": "MBPpred: Proteome-wide detection of membrane lipid-binding proteins using profile Hidden Markov Models.",
+    "question": "Which tool has been developed for proteome-wide detection of membrane lipid-binding proteins?"
+  },
+  {
+    "id": "5ac0a82d19833b0d7b000003",
+    "text": "Biweekly intravenous (i.v.) administration of the PPMO restored the dystrophin expression in nearly 100% skeletal muscle fibers in all age groups. This was associated with the restoration of dystrophin-associated proteins including functional glycosylated dystroglycan and neuronal nitric synthase. However, therapeutic outcomes clearly depended on severity of the disease at the time the treatment started.",
+    "question": "In what percentage of skeletal muscle fibers is dystrophin expression restored after PPMO- mediated exon skipping?"
+  },
+  {
+    "id": "5319ac99b166e2b806000034",
+    "text": "Here, we identify and biochemically characterize TBC1D7 as a stably associated and ubiquitous third core subunit of the TSC1-TSC2 complex. We demonstrate that the TSC1-TSC2-TBC1D7 (TSC-TBC) complex is the functional complex that senses specific cellular growth conditions and possesses Rheb-GAP activity.",
+    "question": "Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?"
+  },
+  {
+    "id": "5a882b5761bb38fb24000013",
+    "text": "interferonopathies such as Aicardi-Gouti\u00e8res syndrome.",
+    "question": "List the four most important interferonopathies"
+  },
+  {
+    "id": "5e6e8f92c6a8763d23000004",
+    "text": "long noncoding RNA (lncRNA, >200 nucleotides)",
+    "question": "How large is a lncRNAs?"
+  },
+  {
+    "id": "6217da133a8413c653000026",
+    "text": "Granzyme B and perforin are stored inside the leukocytes in secretory granules.",
+    "question": "Where is the the protein perforin localized?"
+  },
+  {
+    "id": "622cebe13a8413c65300009d",
+    "text": "WormBase (https://wormbase.org/) is a mature Model Organism Information Resource supporting researchers using the nematode Caenorhabditis elegans as a model system for studies across a broad range of basic biological processes.",
+    "question": "Which organisms are the focus of the Wormbase?"
+  },
+  {
+    "id": "54db62a3034aea571d000001",
+    "text": "sarcoplasmic reticulum (SR) calcium pump (SERCA)",
+    "question": "Which is the main calcium pump of the sarcoplasmic reticulum?"
+  },
+  {
+    "id": "5fe31305a43ad3127800003b",
+    "text": "The objective of this study was to assess the relative importance of local versus systemic interactions between adalimumab and tumour necrosis factor (TNF)-\u03b1 in rheumatoid arthritis (RA), identify localization of the site of adalimumab action and assess the efficacy of local (intra-articular) versus systemic adalimumab administration for treatment of RA",
+    "question": "What is the target of adalimumab?"
+  },
+  {
+    "id": "5e2f906ffbd6abf43b00002c",
+    "text": "STUDY OBJECTIVE: To determine practice patterns regarding administration of the \"GI cocktail\" (a mixture of liquid antacid, viscous lidocaine, and an anticholinergic) in the emergency department in a single hospital and the responses and final dispositions of patients who received the cocktails.",
+    "question": "Which drugs are included in GI cocktail?"
+  },
+  {
+    "id": "532366f09b2d7acc7e000015",
+    "text": "missense mutations and small deletions in the NOTCH3 gene, not involving cysteine residues, have been described in patients considered to be affected by paucisymptomatic CADASIL. However, the significance of such molecular variants is still unclear",
+    "question": "Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?"
+  },
+  {
+    "id": "5166f41a298dcd4e5100005b",
+    "text": "We synthesized a compound library based upon a known specific inhibitor (BIX-01294) of the human G9a histone methyltransferase. Two compounds, BIX-01294 and its derivative TM2-115, inhibited P. falciparum 3D7 parasites in culture with IC(50) values of ~100 nM, values at least 22-fold more potent than their apparent IC(50) toward two human cell lines and one mouse cell line.",
+    "question": "Which are the inhibitors of histone methyltransferases?"
+  },
+  {
+    "id": "5e4949d36d0a277941000006",
+    "text": "Genetic mapping studies reveal that mutations in cohesion pathways are responsible for multispectrum developmental abnormalities termed cohesinopathies. These include Roberts syndrome (RBS), Cornelia de Lange Syndrome (CdLS), and Warsaw Breakage Syndrome (WABS). The cohesinopathies are characterized by overlapping phenotypes ranging from craniofacial deformities, limb defects, and mental retardation. Though these syndromes share a similar suite of phenotypes and arise due to mutations in a common cohesion pathway, the underlying mechanisms are currently believed to be distinct. Defects in mitotic failure and apoptosis i.e. trans DNA tethering events are believed to be the underlying cause of RBS, whereas the underlying cause of CdLS is largely modeled as occurring through defects in transcriptional processes i.e. cis DNA tethering events. Here, we review recent findings described primarily in zebrafish, paired with additional studies in other model systems, including human patient cells, which challenge the notion that cohesinopathies represent separate syndromes.",
+    "question": "List cohesinopathies"
+  },
+  {
+    "id": "58a95c711978bbde22000001",
+    "text": "The antibody aducanumab reduces A\u03b2 plaques in Alzheimer's disease.",
+    "question": "What disease is the drug aducanumab targeting?"
+  },
+  {
+    "id": "5509c52f1180f13250000004",
+    "text": "Hyperosmia is increased olfactory acuity",
+    "question": "What is hyperosmia"
+  },
+  {
+    "id": "5506a7a48e1671127b000008",
+    "text": "The protein phosphatases which dephosphorylate native, sarcoplasmic reticulum (SR)-associated phospholamban were studied in cardiac muscle extracts and in a Triton fraction prepared by detergent extraction of myofibrils, the latter fraction containing 70-80% of the SR-associated proteins present in the tissue. At physiological concentrations of free Mg2+ (1 mM), protein phosphatase 1 (PP1) accounted for approximately 70% of the total phospholamban phosphatase activity in these fractions towards either Ser-16 (the residue labelled by cAMP-dependent protein kinase, PK-A) or Thr-17 (the residue phosphorylated by an SR-associated Ca2+/calmodulin-dependent protein kinase). Protein phosphatase 2A (PP2A) and protein phosphatase 2C (PP2C) accounted for the remainder of the activity.",
+    "question": "Which protein phosphatases have been found to dephosphorylate phospholamban?"
+  },
+  {
+    "id": "63eef4f5f36125a42600000b",
+    "text": "Outcomes of Ublituximab compared to Teriflunomide for relapsing multiple sclerosis: A meta-analysis.",
+    "question": "What disease is treated with Ublituximab?"
+  },
+  {
+    "id": "6275199fe764a5320400004d",
+    "text": "We have identified two small molecules, dubbed Mycro1 and Mycro2, which inhibit the protein-protein interactions between the bHLHZip proteins c-Myc and Max. Mycros are the first inhibitors of c-Myc/Max dimerization, which have been demonstrated to inhibit DNA binding of c-Myc with preference over other dimeric transcription factors in vitro",
+    "question": "Which small molecules inhibit the c-Myc/Max dimerization?"
+  },
+  {
+    "id": "5e29f6e0aa19d74431000002",
+    "text": "LB100 is a small-molecule inhibitor of PP2A designed to sensitize cancer cells to DNA damage from irradiation and chemotherapy. A recently completed phase I trial of LB100 in solid tumors demonstrated its safety. Here, we show the therapeutic potential of LB100 in chordoma",
+    "question": "Which disease category is LB-100 mostly assessed for?"
+  },
+  {
+    "id": "61f5ee57882a024a10000012",
+    "text": "We discuss a case of a 20-year-old woman presenting with chest pain found to have a Hampton's hump on chest x-ray and corresponding wedge infarct on computed tomographic scan. Contrary to our suspicion that this febrile and tachycardic patient had a pulmonary embolism, she was later determined to have a septic embolus secondary to endocarditis.",
+    "question": "Hampton\u2019s hump is characteristic to which disease?"
+  },
+  {
+    "id": "65f7764fc4010b4d7800002f",
+    "text": "In cetuximab-sensitive patients, we found KRAS K117N and A146T mutations in addition to BRAF V600E, AKT1 E17K, PIK3CA E542K, and FGFR1 or ERBB2 amplifications.",
+    "question": "Which gene mutations confer acquired resistance to anti-EGFR therapy in advance colorectal cancer?"
+  },
+  {
+    "id": "58af1cb3717cd3f655000003",
+    "text": "Autosomal XX sex reversal caused by duplication of SOX9",
+    "question": "Which is the main abnormality that arises with Sox9 locus duplication?"
+  },
+  {
+    "id": "58ce9bf1d46b5c2951000002",
+    "text": "SOX2 anophthalmia syndrome is an uncommon autosomal dominant syndrome caused by mutations in the SOX2 gene and clinically characterized by severe eye malformations (anophthalmia/microphthalmia) and extraocular anomalies mainly involving brain, esophagus, and genitalia.",
+    "question": "Which disease is associated with mutated Sox2?"
+  },
+  {
+    "id": "58d0dc878acda34529000004",
+    "text": "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source.",
+    "question": "Which is the largest metabolic gene cluster in yeast?"
+  },
+  {
+    "id": "54f431d664850a5854000006",
+    "text": "Studies over the last 15 years have led to significant advances, with 8 DC genes (DKC1, TERC, TERT, NOP10, NHP2, TIN2, C16orf57, and TCAB1) having been characterized",
+    "question": "Which are the genes responsible for Dyskeratosis Congenita?"
+  },
+  {
+    "id": "5e480da0d14c9f295d000006",
+    "text": "CyberKnife\u00ae is a robotic stereotactic radiotherapy system. The aim of this study is to evaluate the effectiveness and the safety of CyberKnife\u00ae on treating head and neck paragangliomas and to report our results",
+    "question": "What is the cyberknife used for?"
+  },
+  {
+    "id": "624f0813e764a5320400000a",
+    "text": "Diagnosis of occupational respiratory allergy is made by a combination of medical history, physical examination, positive methacholine challenge result or bronchodilator responsiveness, determination of IgE-mediated sensitization, and specific inhalation challenge tests as the gold standard",
+    "question": "Please list the tests used to diagnose Allergic Rhinitis."
+  },
+  {
+    "id": "625ebf76e764a53204000033",
+    "text": "We consider that IMH may represent a part of a disease (aortic dissection), depicted by radiological images in a specific single instant of its clinical evolution.",
+    "question": "What is the most frequent evolution (next stage) when Aortic intramural hematoma (IMH) is not treated?"
+  }
+]

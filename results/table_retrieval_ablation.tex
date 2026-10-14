@@ -1,0 +1,15 @@
+
+\begin{table}[htbp]
+\centering
+\caption{Retrieval Method Comparison}
+\label{tab:retrieval-ablation}
+\begin{tabular}{lccccc}
+\hline
+\textbf{Method} & \textbf{MRR} & \textbf{R@1} & \textbf{R@5} & \textbf{R@10} & \textbf{NDCG@10} \\
+\hline
+BM25 & 0.4816 & 0.4252 & 0.5514 & 0.5981 & 0.5095 \\
+FAISS & 0.7425 & 0.6963 & 0.7944 & 0.8318 & 0.7640 \\
+Hybrid (RRF) & 0.6046 & 0.5047 & 0.7570 & 0.8364 & 0.6601 \\
+\hline
+\end{tabular}
+\end{table}

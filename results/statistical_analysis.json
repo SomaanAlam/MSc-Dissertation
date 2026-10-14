@@ -1,0 +1,107 @@
+{
+  "paired_t_test_f1": {
+    "metric": "f1",
+    "roberta_mean": 0.3219158878504673,
+    "scibert_mean": 0.35537468761767826,
+    "mean_difference": 0.03345879976721099,
+    "std_difference": 0.44848782707833124,
+    "ci_95_lower": -0.027114829027910924,
+    "ci_95_upper": 0.0940324285623329,
+    "t_statistic": 1.0888034787408127,
+    "p_value": 0.2774709310600394,
+    "df": 213,
+    "significant_at_0.05": false,
+    "significant_at_0.01": false,
+    "alternative": "two-sided"
+  },
+  "paired_t_test_em": {
+    "metric": "exact_match",
+    "roberta_mean": 0.29439252336448596,
+    "scibert_mean": 0.3130841121495327,
+    "mean_difference": 0.018691588785046728,
+    "std_difference": 0.4426198219145652,
+    "ci_95_lower": -0.04108949594288529,
+    "ci_95_upper": 0.07847267351297874,
+    "t_statistic": 0.6163184382267507,
+    "p_value": 0.5383424828671692,
+    "df": 213,
+    "significant_at_0.05": false,
+    "significant_at_0.01": false,
+    "alternative": "two-sided"
+  },
+  "cohens_d_f1": {
+    "metric": "f1",
+    "cohens_d": 0.07442907353627168,
+    "abs_cohens_d": 0.07442907353627168,
+    "interpretation": "negligible",
+    "direction": "SciBERT better"
+  },
+  "mcnemar_test": {
+    "contingency_table": {
+      "both_correct": 53,
+      "roberta_only_correct": 21,
+      "scibert_only_correct": 31,
+      "both_wrong": 109
+    },
+    "statistic": 1.5576923076923077,
+    "p_value": 0.21200343092282212,
+    "significant_at_0.05": false,
+    "model_agreement_rate": 0.7570093457943925
+  },
+  "bootstrap_f1": {
+    "metric": "f1",
+    "roberta": {
+      "mean": 0.3219158878504673,
+      "ci_95_lower": 0.2623551401869159,
+      "ci_95_upper": 0.3903644859813084,
+      "ci_width": 0.1280093457943925
+    },
+    "scibert": {
+      "mean": 0.35537468761767826,
+      "ci_95_lower": 0.29399258840847625,
+      "ci_95_upper": 0.4202484081339221,
+      "ci_width": 0.12625581972544586
+    },
+    "cis_overlap": true
+  },
+  "bootstrap_em": {
+    "metric": "exact_match",
+    "roberta": {
+      "mean": 0.29439252336448596,
+      "ci_95_lower": 0.2336448598130841,
+      "ci_95_upper": 0.3552570093457943,
+      "ci_width": 0.12161214953271018
+    },
+    "scibert": {
+      "mean": 0.3130841121495327,
+      "ci_95_lower": 0.2523364485981308,
+      "ci_95_upper": 0.37850467289719625,
+      "ci_width": 0.12616822429906543
+    },
+    "cis_overlap": true
+  },
+  "correlation": {
+    "f1_pearson_r": 0.5201292862933447,
+    "f1_pearson_p": 3.128551636064889e-16,
+    "f1_spearman_rho": 0.5078614787514224,
+    "f1_spearman_p": 1.9698440571396666e-15,
+    "confidence_pearson_r": 0.482405037022602,
+    "confidence_pearson_p": 7.142142480897395e-14,
+    "interpretation": {
+      "f1_correlation": "moderate",
+      "models_agree": true
+    }
+  },
+  "latency": {
+    "roberta_mean_ms": 315.79253940938787,
+    "roberta_std_ms": 315.7883273229463,
+    "scibert_mean_ms": 216.8676897744152,
+    "scibert_std_ms": 86.45476774730702,
+    "difference_ms": -98.92484963497267,
+    "pct_difference": -31.325898268523765,
+    "t_statistic": -4.906017213009837,
+    "p_value": 1.8444676019754393e-06,
+    "significant": true,
+    "faster_model": "SciBERT"
+  }
+}
